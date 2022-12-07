@@ -1,0 +1,38 @@
+body {
+    background-color: thistle;
+}
+
+#page {
+    background-color: snow;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:visited {
+    color: blue;
+}
+
+p {
+    font-family: 'Mali', cursive;
+    font-size: large;
+}
+
+li {
+    font-family: 'Mali', cursive;
+    font-size: large;
+}
+
+h1 {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Mali', cursive;
+    text-decoration: underline;
+}
